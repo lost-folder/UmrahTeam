@@ -1,0 +1,8 @@
+.bread-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    margin-top: 25rem;
+}
+

@@ -1,0 +1,22 @@
+.mb-3{
+
+    width: 50%;
+margin: 8rem auto ;
+
+}
+.search-body{
+    text-align: center;
+}
+.auto{
+    border-radius: 15px 50px ;
+    margin-top: 7rem;
+    margin: 8rem auto;
+    text-align: center;
+}
+body{
+    background-color: #FCDEC0;
+}
+.mecaa-pic{
+   object-fit: contain;
+    width: 150px;
+}
